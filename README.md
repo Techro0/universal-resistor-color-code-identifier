@@ -75,4 +75,4 @@ Add these in the repo “About → Topics”:
 `electronics, resistor, color-code, ohms, ece, python, jupyter, colab, ipywidgets, matplotlib, calculator, education, embedded-systems`
 
 ## License
-MIT © <YOUR NAME>
+MIT © <Ahnaf Atef>
