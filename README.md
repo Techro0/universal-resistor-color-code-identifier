@@ -87,11 +87,11 @@ LICENSE
 ## 🖼️ Screens
 <p align="center">
   <img src="images/Universal_Resistor_Color_Code_Identifier.png" width="75%"><br/>
-  <em>Colors → Value</em>
+  <em>Testing 1</em>
 </p>
 <p align="center">
   <img src="images/Universal_Resistor_Color_Code_Identifier_2.png" width="75%"><br/>
-  <em>Value → Colors</em>
+  <em>Testing 2</em>
 </p>
 
 ---
