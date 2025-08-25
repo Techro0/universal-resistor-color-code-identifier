@@ -9,7 +9,7 @@
 ![Issues](https://img.shields.io/github/issues/Techro0/universal-resistor-color-code-identifier)
 ![Stars](https://img.shields.io/github/stars/Techro0/universal-resistor-color-code-identifier?style=social)
 
-An interactive, **Colab‑ready** tool to decode **resistor color bands** and to **generate bands from a value**.  
+An interactive, tool to decode **resistor color bands** and to **generate bands from a value**.  
 Supports **3, 4, 5, and 6‑band** resistors, including **tolerance** and **temperature coefficient** for 6‑band parts.  
 Includes a **Matplotlib visual** that draws the resistor body with your selected bands.
 
@@ -103,4 +103,4 @@ Add these in the repo “About → Topics”:
 ---
 
 ## 📄 License
-MIT © Techro0
+MIT © 2024 Techro0
